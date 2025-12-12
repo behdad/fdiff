@@ -14,9 +14,6 @@ REQUIRES_PYTHON = ">=3.7.0"
 
 INSTALL_REQUIRES = [
     "fontTools >= 4.0.0",
-    "aiohttp >= 3.6.0",
-    "aiodns >= 2.0.0",
-    "aiofiles >= 0.4.0",
     "rich",
 ]
 # Optional packages
