@@ -4,5 +4,4 @@
 #
 #    pip-compile
 #
-fonttools==4.34.4
-rich==12.5.1
+fonttools
